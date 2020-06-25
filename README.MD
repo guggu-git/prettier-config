@@ -14,7 +14,7 @@ yarn add @guggugit/prettier-config --dev --exact
   ...,
   "prettier": "@guggugit/prettier-config",
   "dependencies": {
-  "prettier": "x.y.z"
+    "prettier": "x.y.z"
   },
   ...,
 }
