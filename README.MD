@@ -7,7 +7,8 @@ yarn add @guggugit/prettier-config --dev --exact
 
 ## Usage
 > In `package.json`
-```json
+
+```js
 {
   "name": "my-app",
   ...,
